@@ -37,6 +37,9 @@ navigation:
 - text: Benefits
   url: benefits/
   internal: true
+- text: How do I?
+  url: howdoi/
+  internal: true
 - text: Features
   url: features/
   internal: true

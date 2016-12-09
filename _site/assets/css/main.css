@@ -451,7 +451,7 @@ Desktop Styles
 
 
     header {
-        position: fixed;
+        /*position: fixed;*/
     }
 
     aside {
